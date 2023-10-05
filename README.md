@@ -58,6 +58,6 @@ Develop a user-friendly web application or interface to allow users to input pla
 ## Contact Information
 If you have any questions, suggestions, or feedback regarding this project, please feel free to contact:
 
-[Redi Zypce]
+Redi Zypce
 [https://twitter.com/RediZypce]
 
